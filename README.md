@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pranith pashikanti 
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning computer vision
+- 👀 I’m interested in machine learning and deep learning
+- 🌱 I’m currently learning fastai 2022 course-1
 - 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me pashikantipranith7867@gmail.com
 

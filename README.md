@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning fastai 2022 course-1
 - 💞️ I’m looking to collobarate on ML domain
-- 📫 Connect me on <a href="mailto:recipient@example.com">Mail</a>
+- 📫 Connect me on <a href="mailto:pashikantipranith7867@gmail.com">Mail</a>
 
 
 <!---
